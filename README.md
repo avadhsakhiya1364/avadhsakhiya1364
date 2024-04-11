@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @avadhsakhiya1364
-
-<a href="https://app.daily.dev/avadh_sakhiya12"><img src="https://api.daily.dev/devcards/154d64dec2c64bd5aaf87c71ab40bd3d.png?r=byo" width="400" alt="avadh sakhiya's Dev Card"/></a>
+- 👋 Hi, I’m avadh sakhiya <a href="https://app.daily.dev/avadh_sakhiya12"><img src="https://api.daily.dev/devcards/v2/ueg0oi01HHKJOkKGD5CTY.png?type=default&r=1l5" width="356" alt="avadh sakhiya's Dev Card"/></a>
